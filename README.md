@@ -1,5 +1,4 @@
-
-This repository contains the source code for **Project Name**, a [brief description — what it does / solves / enables]. Originally cloned from another source, this version is maintained and developed under my personal GitHub for enhancements, documentation, and further learning.
+Developed a full-stack application that allows users to seamlessly upload files to Amazon S3, combining the power of Spring Boot 3 for the backend and React.js for the frontend. This project demonstrates the complete integration of a React client with a Spring Boot RESTful API to enable secure, scalable, and efficient file uploads to the cloud.
 
 ---
 
